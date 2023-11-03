@@ -1,0 +1,4 @@
+repository "Sem 10@AuraSync@cloud"
+  path "/"
+    br "/main"
+    co "/main"
